@@ -1,5 +1,5 @@
-# pi-setup
-New PI setup scripts
+# pi-setup-scripts
+Setting a new Raspberry PI using setup scripts
 
 # Quick start - SD card
 1) Download latest version of Raspabian https://www.raspberrypi.org/downloads/raspbian/ (Buster is the available version at the time of writing this guide) - preferable the standard version (neither full nor lite) - https://downloads.raspberrypi.org/raspbian_latest
