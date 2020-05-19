@@ -1,0 +1,37 @@
+# docker prerequisites
+libffi-dev
+libssl-dev
+python
+python-pip
+python3-dev
+# OpenCV prerequisites
+libjpeg-dev
+libtiff5-dev
+libjasper-dev
+libpng-dev
+libavcodec-dev
+libavformat-dev
+libswscale-dev
+libv4l-dev
+libxvidcore-dev
+libx264-dev
+# OpenCV highgui dependencies
+libfontconfig1-dev
+libcairo2-dev
+libgdk-pixbuf2.0-dev
+libpango1.0-dev
+libgtk2.0-dev
+libgtk-3-dev
+# OpenCV extras
+libatlas-base-dev
+gfortran
+# OpenCV HDF5 Qt
+libhdf5-dev
+libhdf5-serial-dev
+libhdf5-103
+libqtgui4
+libqtwebkit4
+libqt4-test
+python3-pyqt5
+# python3 headers
+python3-dev

@@ -1,0 +1,5 @@
+# build essentials
+build-essential
+git
+cmake
+pkg-config

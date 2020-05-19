@@ -1,0 +1,6 @@
+auto usb0
+allow-hotplug usb0
+iface usb0 inet static
+  # define the static address for USB ethernet device
+  address 10.10.10.1
+  netmask 255.255.255.248

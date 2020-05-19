@@ -1,0 +1,15 @@
+[Unit]
+Description=Deluge Web Interface
+After=network-online.target deluged.service
+Wants=deluged.service
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+UMask=027
+ExecStart=/usr/bin/deluge-web
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
